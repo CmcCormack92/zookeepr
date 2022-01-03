@@ -110,51 +110,13 @@
       "id": "10"
     },
     {
+      "name": "Larry",
+      "species": "Lemur",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry"
+      ],
       "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "Lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "Lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "name": "Chris",
-      "species": "Wolf",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "anxious",
-        "loving",
-        "goofy"
-      ],
-      "id": "14"
-    },
-    {
-      "name": "Chris",
-      "species": "Wolf",
-      "diet": "carnivore",
-      "personalityTraits": [
-        "hungry",
-        "zany",
-        "anxious",
-        "loving",
-        "goofy"
-      ],
-      "id": "15"
     }
   ]
 }
